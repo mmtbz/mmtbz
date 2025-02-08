@@ -1,4 +1,4 @@
-# Hi there, I'm mmtbz! 👋
+# Hi there, I'm David! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer who loves to explore new technologies and create innovative solutions. Here's a bit about me:
 
