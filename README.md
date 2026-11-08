@@ -26,6 +26,3 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 I love hiking and exploring nature. When I'm not coding, you can find me on a trail somewhere!
 
 Feel free to explore my repositories and reach out if you have any questions or just want to connect. Let's build something amazing together!
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmtbz&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mmtbz&layout=compact&theme=radical)
